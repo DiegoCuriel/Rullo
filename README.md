@@ -1,2 +1,6 @@
 # Rullo
-Interactive game - Computational Thinking for Engineering
+Interactive game developped in Python.
+
+## Authors 🖋
+- Diego Curiel - Developer
+- Alexia Paz - Developer
